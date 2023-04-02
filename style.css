@@ -15,7 +15,7 @@
  }
 
  #morning{
-    background-image: url('morning.jpg');
+    background-image: url('morning.png');
     position: absolute;
     /* width:400px; */
     width: 100%;
@@ -128,7 +128,9 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: #ccc;
+    background-color:yellow;
+    opacity: 0.7;
+    /* outline: 0.5px white solid; */
     -webkit-transition: .4s;
     transition: .4s;
   }
